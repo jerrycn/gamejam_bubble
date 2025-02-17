@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "boss_walk00_12.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

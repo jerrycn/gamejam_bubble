@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "art-ui-1.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
